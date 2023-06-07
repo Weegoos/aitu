@@ -5,3 +5,6 @@ int = input("Write your name:")
 string = 'da'
 sadas
 asdasdas
+
+
+batyr batyr
