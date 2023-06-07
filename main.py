@@ -1,5 +1,5 @@
-int = input("Write your name:")
+int = 5 
+string = "Batyr"
 
-return int
-
-num = 5
+res = string + int
+return res
