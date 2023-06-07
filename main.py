@@ -1,5 +1,5 @@
-int = 5 
-string = "Batyr"
+int = input("Write your name:")
 
-res = string + int
-return res
+return int
+
+num = 5
