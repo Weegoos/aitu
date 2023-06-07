@@ -1,6 +1,1 @@
-int = input("Write your name:")
-
-return int
-
-num = 5
-main
+batyr = 56565656556
